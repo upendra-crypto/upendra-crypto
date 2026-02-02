@@ -8,11 +8,17 @@
 ## 🧠 About Me
 👋 Hi! I’m Upendra Uddagiri, a Computer Science Engineering student who is passionate about learning, experimenting, and building things from scratch.
 My interests weave together:
+
 -💻 Programming & Problem Solving
+
 -🤖 Machine Learning & Artificial Intelligence
+
 -🧠 Building practical projects
+
 -📊 Data analysis & automation
+
 -⚽ Playing football
+
 -🚴 Cycling
 
 I believe in leveraging technology to create meaningful, efficient, and scalable systems that improve lives and businesses.
@@ -24,12 +30,19 @@ I believe in leveraging technology to create meaningful, efficient, and scalable
 ✨ **Active Projects & Focus Areas:**
 
 - 🧪 Building small to medium Python projects to strengthen core concepts
+- 
 -🤖 Learning and implementing Machine Learning models
+
 -📂 Working on mini-projects for GitHub and resume
+
 -🛠️ Exploring AI-based applications and automation ideas
+
 -🧠 Improving DSA and problem-solving skills
+
 -🔌 Understanding APIs and backend basics
+
 -📈 Practicing data handling using NumPy, Pandas, and Matplotlib
+
 ---
 
 ## 🌱 What I’m Learning
@@ -37,9 +50,13 @@ I believe in leveraging technology to create meaningful, efficient, and scalable
 📚 **Current Learning Goals:**
 
 -📐 Math for Machine Learning (Linear Algebra, Probability)
+
 -🧠 Machine Learning fundamentals
+
 -🐍 Advanced Python programming
+
 -⚙️ AI tools and libraries
+
 -🔄 How to turn ideas into working projects
 
 ---
