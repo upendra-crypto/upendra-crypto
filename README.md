@@ -6,9 +6,7 @@
 ---
 
 ## 🧠 About Me
-👋 Hi! I’m Upendra Uddagiri, a Computer Science Engineering student who is passionate about learning, experimenting, and building things from scratch.
-
-I enjoy understanding how things work behind the scenes—from writing clean Python code to training machine learning models and analyzing data. Instead of just following tutorials, I focus on hands-on practice, building small and medium projects that strengthen my fundamentals and problem-solving ability.
+👋 Hi! I’m Upendra Uddagiri, a Computer Science Engineering student who is passionate about learning, experimenting, and building things from scratch.I enjoy understanding how things work behind the scenes—from writing clean Python code to training machine learning models and analyzing data. Instead of just following tutorials, I focus on hands-on practice, building small and medium projects that strengthen my fundamentals and problem-solving ability.
 My interests weave together:
 
 -💻 Programming & Problem Solving
@@ -41,7 +39,7 @@ I believe in leveraging technology to create meaningful, efficient, and scalable
 
 -📐 Math for Machine Learning (Linear Algebra, Probability)
 -🧠 Machine Learning fundamentals
---🐍 Advanced Python programming
+-🐍 Advanced Python programming
 -⚙️ AI tools and libraries
 -🔄 How to turn ideas into working projects
 
