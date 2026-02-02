@@ -1,27 +1,57 @@
-# 💫 About Me:
-Bachelor of Engineering (B.E.) is a professional undergraduate program that focuses on building strong technical, analytical, and problem-solving skills. This repository contains my academic work, projects, and practical implementations developed during my B.E. journey, covering core engineering concepts, programming, and real-world applications.
+<!-- Typing SVG -->
 
+🧠 About Me
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/upendrauddagiri030@gmail.com) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/upendra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/upendrauddagiri) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@upendra) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@upendra uddagiri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:upendrauddagiri030@gmail.com) 
+👋 Hi! I’m Upendra Uddagiri, a Computer Science student and an aspiring Machine Learning / AI Engineer who believes in learning by doing.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=upendra-crypto&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=upendra-crypto&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=upendra-crypto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My interests include:
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=upendra-crypto&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+💻 Programming & Problem Solving
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🤖 Machine Learning & Artificial Intelligence
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=upendra-crypto&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🧠 Building practical projects
 
----
-[![](https://visitcount.itsvg.in/api?id=upendra-crypto&icon=0&color=0)](https://visitcount.itsvg.in)
+📊 Data analysis & automation
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⚽ Playing football
+
+🚴 Cycling
+
+I focus on building real, hands-on projects that strengthen my fundamentals and improve my problem-solving skills.
+
+🔭 What I’m Currently Working On
+
+✨ Current Focus & Projects:
+
+🧪 Building small to medium Python projects to strengthen core concepts
+
+🤖 Learning and implementing Machine Learning models
+
+📂 Working on mini-projects for GitHub and resume
+
+🛠️ Exploring AI-based applications and automation ideas
+
+🧠 Improving DSA and problem-solving skills
+
+🔌 Understanding APIs and backend basics
+
+📈 Practicing data handling using NumPy, Pandas, and Matplotlib
+
+🌱 What I’m Learning
+
+📚 Currently Learning & Exploring:
+
+📐 Math for Machine Learning (Linear Algebra, Probability)
+
+🧠 Machine Learning fundamentals
+
+🐍 Advanced Python programming
+
+⚙️ AI tools and libraries
+
+🔄 How to turn ideas into working projects
+
+📫 Connect with me on LinkedIn:
+
+💡 “Learning by building, improving by failing, and moving forward consistently.”
