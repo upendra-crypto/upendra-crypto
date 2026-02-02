@@ -1,57 +1,68 @@
 <!-- Typing SVG -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=835&lines=Just+trying%2C+doing%2C+and+moving+forward.;Not+losing+motivation+by+only+thinking+and+talking.)
 
-🧠 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/avnesterovich](https://www.linkedin.com/in/upendra-uddagiri-767956330/)/)
 
-👋 Hi! I’m Upendra Uddagiri, a Computer Science student and an aspiring Machine Learning / AI Engineer who believes in learning by doing.
+---
 
-My interests include:
+## 🧠 About Me
 
-💻 Programming & Problem Solving
+👋 Hi! I’m **Alex**, a passionate developer and lifelong learner who thrives on building creative, intelligent solutions.  
+My interests weave together:
 
-🤖 Machine Learning & Artificial Intelligence
+-💻 Programming & Problem Solving
 
-🧠 Building practical projects
+-🤖 Machine Learning & Artificial Intelligence
 
-📊 Data analysis & automation
+-🧠 Building practical projects
 
-⚽ Playing football
+-📊 Data analysis & automation
+
+--⚽ Playing football
 
 🚴 Cycling
 
-I focus on building real, hands-on projects that strengthen my fundamentals and improve my problem-solving skills.
+I believe in leveraging technology to create meaningful, efficient, and scalable systems that improve lives and businesses.
 
-🔭 What I’m Currently Working On
+---
 
-✨ Current Focus & Projects:
+## 🔭 What I’m Currently Working On
 
-🧪 Building small to medium Python projects to strengthen core concepts
+✨ **Active Projects & Focus Areas:**
 
-🤖 Learning and implementing Machine Learning models
+- 🧪 Building small to medium Python projects to strengthen core concepts
 
-📂 Working on mini-projects for GitHub and resume
+-🤖 Learning and implementing Machine Learning models
 
-🛠️ Exploring AI-based applications and automation ideas
+-📂 Working on mini-projects for GitHub and resume
 
-🧠 Improving DSA and problem-solving skills
+-🛠️ Exploring AI-based applications and automation ideas
 
-🔌 Understanding APIs and backend basics
+-🧠 Improving DSA and problem-solving skills
 
-📈 Practicing data handling using NumPy, Pandas, and Matplotlib
+-🔌 Understanding APIs and backend basics
 
-🌱 What I’m Learning
+-📈 Practicing data handling using NumPy, Pandas, and Matplotlib
+---
 
-📚 Currently Learning & Exploring:
+## 🌱 What I’m Learning
 
-📐 Math for Machine Learning (Linear Algebra, Probability)
+📚 **Current Learning Goals:**
 
-🧠 Machine Learning fundamentals
+-📐 Math for Machine Learning (Linear Algebra, Probability)
 
-🐍 Advanced Python programming
+-🧠 Machine Learning fundamentals
 
-⚙️ AI tools and libraries
+--🐍 Advanced Python programming
 
-🔄 How to turn ideas into working projects
+-⚙️ AI tools and libraries
 
-📫 Connect with me on LinkedIn:
+-🔄 How to turn ideas into working projects
 
-💡 “Learning by building, improving by failing, and moving forward consistently.”
+---
+
+📫 **You can reach me on LinkedIn:**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in//](https://www.linkedin.com/in/upendra-uddagiri-767956330/))
+
+💡 *“Just trying, doing, and moving forward — not losing motivation by only thinking and talking.”*
